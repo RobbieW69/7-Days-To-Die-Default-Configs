@@ -1,2 +1,2 @@
-# 7-Days-To-Die-Default-Configs
-The default config files for the latest version of 7 Days to Die
+# 7 Days to Die Default Configs
+This repo I will try to keep updated as more experimental patches come out so some of you can have a reference. Enjoy :)
